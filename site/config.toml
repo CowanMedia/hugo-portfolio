@@ -64,7 +64,7 @@ paginate = 10
 			thumb = "thumbs/gexcorp-site.jpg"
 			title = "Company website. <br>Uses material design Bootstrap, nunjucks, apis."
 			description = "Site still under development, but you can see the live test version."
-			url = "https://thirsty-ardinghelli-b47326.netlify.com/"
+			URL = "https://thirsty-ardinghelli-b47326.netlify.com/"
 
 
 	[params.recentposts]
