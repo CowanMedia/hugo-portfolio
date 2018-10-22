@@ -31,6 +31,7 @@ paginate = 10
 		# Use Markdown to format the string. This works nearly all over the theme
 		bio = "**I'm MJ**, a web designer & developer<br> working on learning new things.<br>I'm interested in all things digital marketing<br> and exploring new tech."
 		# The icons will be shown if you enter your username
+		
 		github = "CowanMedia"
 		linkedin = "michellepcowan"
 
@@ -44,7 +45,7 @@ paginate = 10
 	[params.about]
 		hide  = false
 		title = "About Me"
-		content = "I'm a newbie to web design and development, aiming at keeping things as simple as possible and learning how to write clean code. This portfolio site is part of a learning project, using the Hugo/NetlifyCMS static site set-up with the strata theme. Awesome! Loving this."
+		content = "I'm a newbie to web development, aiming at keeping things as simple as possible and learning how to write clean code. This portfolio site is part of a learning project, using the Hugo/NetlifyCMS static site set-up with AWS. Awesome! Loving this. Check out my current work below."
 
 	[params.portfolio]
 		hide  = false
@@ -60,11 +61,25 @@ paginate = 10
 			URL = "http://www.mjcowan.com"
 
 		[[params.portfolio.gallery]]
-			image = "fulls/gexcorp-site.jpg"
-			thumb = "thumbs/gexcorp-site.jpg"
-			title = "Company website. <br>Uses material design Bootstrap, nunjucks, apis."
-			description = "Site still under development, but you can see the live test version."
-			URL = "https://thirsty-ardinghelli-b47326.netlify.com/"
+			image = "fulls/gex-finalwebsite.jpg"
+			thumb = "thumbs/gex-finalwebsite.jpg"
+			title = "Company website. <br>Uses material design Bootstrap, JS, nunjucks.js, APIs."
+			description = "Multi-page site for scienced-based manufacturing company. In process: single page app for document library using Firebase/ReactJS."
+			URL = "https://www.gexcorp.com"
+
+		[[params.portfolio.gallery]]
+			image = "fulls/ACTonDrugs-site.jpg"
+			thumb = "thumbs/ACTonDrugs-site.jpg"
+			title = "Non-profit website <br>Uses WordPress, custom theme on Genesys Framework."
+			description = "Multi-page site for local non-profit organization. Still underdevelopment, but you can check out the test site."
+			URL = "https://www.jojoloco.com"
+
+		[[params.portfolio.gallery]]
+			image = "fulls/avonlea-website.jpg"
+			thumb = "thumbs/avonlea-website.jpg"
+			title = "Small business website <br>Uses WordPress, custom theme on Genesys Framework."
+			description = "Multi-page site for counseling service company."
+			URL = "https://www.avonleacounseling.com"		
 
 
 	[params.recentposts]
