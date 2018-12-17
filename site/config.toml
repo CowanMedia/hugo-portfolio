@@ -64,21 +64,21 @@ paginate = 10
 			image = "fulls/gex-finalwebsite.jpg"
 			thumb = "thumbs/gex-finalwebsite.jpg"
 			title = "Company website. <br>Uses material design Bootstrap, JS, nunjucks.js, APIs."
-			description = "Multi-page site for scienced-based manufacturing company. In process: single page app for document library using Firebase/ReactJS."
+			description = "Multi-page, mobile-ready responsive site for scienced-based manufacturing company. In process: single page app for document library using Firebase/ReactJS."
 			URL = "https://www.gexcorp.com"
 
 		[[params.portfolio.gallery]]
 			image = "fulls/ACTonDrugs-site.jpg"
 			thumb = "thumbs/ACTonDrugs-site.jpg"
-			title = "Non-profit website <br>Uses WordPress, custom theme on Genesis Framework."
-			description = "Multi-page site for local non-profit organization."
+			title = "Non-profit website <br>Uses WordPress, custom child theme on Genesis Framework."
+			description = "Multi-page, mobile-ready responsive site for local non-profit organization."
 			URL = "https://www.actondrugs.org"
 
 		[[params.portfolio.gallery]]
 			image = "fulls/avonlea-website.jpg"
 			thumb = "thumbs/avonlea-website.jpg"
 			title = "Small business website <br>Uses WordPress, custom theme on Genesis Framework."
-			description = "Multi-page site for counseling service company."
+			description = "Multi-page, mobile-ready responsive site for counseling service company."
 			URL = "https://www.avonleacounseling.com"		
 
 
