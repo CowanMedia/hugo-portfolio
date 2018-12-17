@@ -70,14 +70,14 @@ paginate = 10
 		[[params.portfolio.gallery]]
 			image = "fulls/ACTonDrugs-site.jpg"
 			thumb = "thumbs/ACTonDrugs-site.jpg"
-			title = "Non-profit website <br>Uses WordPress, custom theme on Genesys Framework."
+			title = "Non-profit website <br>Uses WordPress, custom theme on Genesis Framework."
 			description = "Multi-page site for local non-profit organization."
 			URL = "https://www.actondrugs.org"
 
 		[[params.portfolio.gallery]]
 			image = "fulls/avonlea-website.jpg"
 			thumb = "thumbs/avonlea-website.jpg"
-			title = "Small business website <br>Uses WordPress, custom theme on Genesys Framework."
+			title = "Small business website <br>Uses WordPress, custom theme on Genesis Framework."
 			description = "Multi-page site for counseling service company."
 			URL = "https://www.avonleacounseling.com"		
 
