@@ -71,8 +71,8 @@ paginate = 10
 			image = "fulls/ACTonDrugs-site.jpg"
 			thumb = "thumbs/ACTonDrugs-site.jpg"
 			title = "Non-profit website <br>Uses WordPress, custom theme on Genesys Framework."
-			description = "Multi-page site for local non-profit organization. Still underdevelopment, but you can check out the test site."
-			URL = "https://www.jojoloco.com"
+			description = "Multi-page site for local non-profit organization."
+			URL = "https://www.actondrugs.org"
 
 		[[params.portfolio.gallery]]
 			image = "fulls/avonlea-website.jpg"
